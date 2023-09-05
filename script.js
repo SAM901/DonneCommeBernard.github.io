@@ -27,6 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
         9.12: "à une heure de SMIC net",
         10.4: "à 1h de salaire net d'un enseignant débutant",
         12: "à une place de cinéma",
+        12.1 "au visionnage de 4600 films au cinéma",
         16.66: "à 3 secondes de déplacement de Macron en avion",
         23: "à un exemplaire papier du Temps des Tempêtes",
         29.95: "au prix d'un titre de noblesse de Sealand",
